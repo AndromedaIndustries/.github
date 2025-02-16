@@ -1,3 +1,3 @@
-Welcome, for now this org is mainly a testing ground for scripts and devops workflows.
+Welcome to Andromeda Industries! 
 
-There may occasionally be a project, however no gaurentees if they persist. 
+We're creating open source software to help support communities by providing tools and services for these groups to grow.
